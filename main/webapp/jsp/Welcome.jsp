@@ -13,7 +13,7 @@
 	<form action="<%=ORSView.WELCOME_CTL%>">
 		<%@ include file="Header.jsp"%>
 		<h1 align="Center">
-			<font size="10px" color="red">Welcome to ORS NCS</font>
+			<font size="10px" color="red">Welcome to ORS NCS1</font>
 		</h1>
 
 		<%
